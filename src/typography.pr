@@ -11,4 +11,5 @@ and their value rendered using `rendered-color` blueprint
   {[ if !token.referencedToken ]}
     {[ inject "rendered-token-class" context { "token": token, "allTokens": allTokens } /]}  
   {[/]}
+  {[ inject token.name /]}
 {[/]}
