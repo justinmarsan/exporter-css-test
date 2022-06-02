@@ -13,3 +13,5 @@ and their value rendered using `rendered-color` blueprint
     Test 1 {[ inject token.name /]} Test 2
   {[/]}
 {[/]}
+
+Testing some more
