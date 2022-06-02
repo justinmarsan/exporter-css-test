@@ -1,6 +1,6 @@
 {
-    "id": "io.supernova.css",
-    "name": "CSS",
+    "id": "io.lke.css",
+    "name": "LKE CSS",
     "description": "CSS token and style exporter",
     "author": "Ivan Terpugov & Jiri Trecak",
     "organization": "Supernova",
